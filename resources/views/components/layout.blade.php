@@ -20,12 +20,5 @@
     <x-header />
     <main class="container mx-auto p-4 mt-4">{{ $slot }}</main>
   </body>
-  <body class="bg-gray-100">
-    <x-header />
-    <main class="container mx-auto p-4 mt-4">{{ $slot }}</main>
-  </body>
-  <body class="bg-gray-100">
-    <x-header />
-    <main class="container mx-auto p-4 mt-4">{{ $slot }}</main>
-  </body>
+  
 </html>
